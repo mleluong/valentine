@@ -79,9 +79,14 @@ button {
   }
 
   button {
-    padding: 10% 30%;
+    padding: 10% 20%;
     margin: auto;
     margin-top: 8%;
+    font-size: 1.5em;
+  }
+
+  button:hover {
+    background-color: #ffd25c;
   }
 
   img {
