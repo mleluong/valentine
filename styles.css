@@ -58,6 +58,13 @@ h1 {
   padding-bottom: 1%;
 }
 
+p {
+  font-family: 'Inconsolata', monospace;
+  color: #ff0000;
+  font-size: 1em;
+  text-align: center;
+}
+
 button {
   font-size: 1em;
   font-family: 'Inconsolata', monospace;
