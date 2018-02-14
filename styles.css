@@ -65,4 +65,17 @@ button {
     width: 100%;
     height: 100vh;
   }
+
+  img {
+    width: 80%;
+  }
+
+  button {
+    font-size: 3em;
+    padding: 4% 9%;
+  }
+
+  h1 {
+    font-size: 5em;
+  }
 }
