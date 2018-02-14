@@ -32,7 +32,7 @@ button {
   background-color: #ffd25c;
   border: none;
   border-radius: 1em;
-  margin-top: 5%;
+  margin-top: 2%;
 }
 
 button:hover {
@@ -49,6 +49,8 @@ h1 {
   color: #ff0000;
   text-transform: lowercase;
   letter-spacing: 0.2em;
+  padding-top: 2%;
+  padding-bottom: 1%;
 }
 
 button {
